@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>919_Szobor</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>91901_gDSC06102</title>
+            <link>slides/91901_gDSC06102.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91901_gDSC06102.jpg" width="180" height="240"/>
+            <media:content url="slides/91901_gDSC06102.jpg" width="600" height="800"/>
+            <jalbum:original url="91901_gDSC06102.jpg" width="2304" height="3072" fileSize="300397"/>
+            <jalbum:exif originalDate="7/5/08 5:15 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91901_gDSC06102.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91902_cDSC05943</title>
+            <link>slides/91902_cDSC05943.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91902_cDSC05943.jpg" width="180" height="240"/>
+            <media:content url="slides/91902_cDSC05943.jpg" width="600" height="800"/>
+            <jalbum:original url="91902_cDSC05943.jpg" width="2304" height="3072" fileSize="156362"/>
+            <jalbum:exif originalDate="7/1/08 9:26 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91902_cDSC05943.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91903_gDSC06110</title>
+            <link>slides/91903_gDSC06110.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91903_gDSC06110.jpg" width="240" height="180"/>
+            <media:content url="slides/91903_gDSC06110.jpg" width="800" height="600"/>
+            <jalbum:original url="91903_gDSC06110.jpg" width="3072" height="2304" fileSize="433527"/>
+            <jalbum:exif originalDate="7/5/08 5:26 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91903_gDSC06110.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91904_eDSC06027</title>
+            <link>slides/91904_eDSC06027.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91904_eDSC06027.jpg" width="180" height="240"/>
+            <media:content url="slides/91904_eDSC06027.jpg" width="600" height="800"/>
+            <jalbum:original url="91904_eDSC06027.jpg" width="2304" height="3072" fileSize="229674"/>
+            <jalbum:exif originalDate="7/3/08 9:13 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91904_eDSC06027.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91905_gDSC06109</title>
+            <link>slides/91905_gDSC06109.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91905_gDSC06109.jpg" width="180" height="240"/>
+            <media:content url="slides/91905_gDSC06109.jpg" width="600" height="800"/>
+            <jalbum:original url="91905_gDSC06109.jpg" width="2304" height="3072" fileSize="368759"/>
+            <jalbum:exif originalDate="7/5/08 5:21 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91905_gDSC06109.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91906_fDSC06099</title>
+            <link>slides/91906_fDSC06099.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:09:11 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91906_fDSC06099.jpg" width="180" height="240"/>
+            <media:content url="slides/91906_fDSC06099.jpg" width="600" height="800"/>
+            <jalbum:original url="91906_fDSC06099.jpg" width="2304" height="3072" fileSize="199399"/>
+            <jalbum:exif originalDate="7/5/08 5:00 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91906_fDSC06099.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>912_Kalvaria</title>
+   	<link>../../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>91201_dDSC06012</title>
+            <link>slides/91201_dDSC06012.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:03:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91201_dDSC06012.jpg" width="180" height="240"/>
+            <media:content url="slides/91201_dDSC06012.jpg" width="600" height="800"/>
+            <jalbum:original url="91201_dDSC06012.jpg" width="2304" height="3072" fileSize="261291"/>
+            <jalbum:exif originalDate="7/2/08 6:41 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91201_dDSC06012.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91202_eDSC06046</title>
+            <link>slides/91202_eDSC06046.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:03:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91202_eDSC06046.jpg" width="180" height="240"/>
+            <media:content url="slides/91202_eDSC06046.jpg" width="600" height="800"/>
+            <jalbum:original url="91202_eDSC06046.jpg" width="2304" height="3072" fileSize="358548"/>
+            <jalbum:exif originalDate="7/3/08 9:27 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91202_eDSC06046.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91203_cDSC05934</title>
+            <link>slides/91203_cDSC05934.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:03:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91203_cDSC05934.jpg" width="240" height="180"/>
+            <media:content url="slides/91203_cDSC05934.jpg" width="800" height="600"/>
+            <jalbum:original url="91203_cDSC05934.jpg" width="3072" height="2304" fileSize="139551"/>
+            <jalbum:exif originalDate="7/1/08 9:21 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91203_cDSC05934.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91204_hDSC06135</title>
+            <link>slides/91204_hDSC06135.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:03:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91204_hDSC06135.jpg" width="180" height="240"/>
+            <media:content url="slides/91204_hDSC06135.jpg" width="600" height="800"/>
+            <jalbum:original url="91204_hDSC06135.jpg" width="2304" height="3072" fileSize="324625"/>
+            <jalbum:exif originalDate="7/5/08 5:47 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91204_hDSC06135.jpg</guid>
+        </item>
+        
+        <item>
+            <title>91205_dDSC06020</title>
+            <link>slides/91205_dDSC06020.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:03:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/91205_dDSC06020.jpg" width="180" height="240"/>
+            <media:content url="slides/91205_dDSC06020.jpg" width="600" height="800"/>
+            <jalbum:original url="91205_dDSC06020.jpg" width="2304" height="3072" fileSize="207368"/>
+            <jalbum:exif originalDate="7/2/08 6:45 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/91205_dDSC06020.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

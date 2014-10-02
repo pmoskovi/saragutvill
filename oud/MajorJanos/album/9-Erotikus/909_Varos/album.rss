@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>909_Varos</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>90901_aJ1040372</title>
+            <link>slides/90901_aJ1040372.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90901_aJ1040372.jpg" width="180" height="240"/>
+            <media:content url="slides/90901_aJ1040372.jpg" width="600" height="800"/>
+            <jalbum:original url="90901_aJ1040372.jpg" width="2160" height="2880" fileSize="754077"/>
+            <jalbum:exif originalDate="6/28/08 7:11 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/90901_aJ1040372.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90902_aJ1040373</title>
+            <link>slides/90902_aJ1040373.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90902_aJ1040373.jpg" width="180" height="240"/>
+            <media:content url="slides/90902_aJ1040373.jpg" width="600" height="800"/>
+            <jalbum:original url="90902_aJ1040373.jpg" width="2160" height="2880" fileSize="251444"/>
+            <jalbum:exif originalDate="6/28/08 7:11 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/90902_aJ1040373.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90903_fDSC06096</title>
+            <link>slides/90903_fDSC06096.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90903_fDSC06096.jpg" width="180" height="240"/>
+            <media:content url="slides/90903_fDSC06096.jpg" width="600" height="800"/>
+            <jalbum:original url="90903_fDSC06096.jpg" width="2304" height="3072" fileSize="226155"/>
+            <jalbum:exif originalDate="7/5/08 4:59 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90903_fDSC06096.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90904_cDSC05938</title>
+            <link>slides/90904_cDSC05938.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90904_cDSC05938.jpg" width="240" height="180"/>
+            <media:content url="slides/90904_cDSC05938.jpg" width="800" height="600"/>
+            <jalbum:original url="90904_cDSC05938.jpg" width="3072" height="2304" fileSize="255917"/>
+            <jalbum:exif originalDate="7/1/08 9:24 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90904_cDSC05938.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90905_cDSC05937</title>
+            <link>slides/90905_cDSC05937.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90905_cDSC05937.jpg" width="240" height="180"/>
+            <media:content url="slides/90905_cDSC05937.jpg" width="800" height="600"/>
+            <jalbum:original url="90905_cDSC05937.jpg" width="3072" height="2304" fileSize="157544"/>
+            <jalbum:exif originalDate="7/1/08 9:23 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90905_cDSC05937.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90906_hDSC06113</title>
+            <link>slides/90906_hDSC06113.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90906_hDSC06113.jpg" width="180" height="240"/>
+            <media:content url="slides/90906_hDSC06113.jpg" width="600" height="800"/>
+            <jalbum:original url="90906_hDSC06113.jpg" width="2304" height="3072" fileSize="370581"/>
+            <jalbum:exif originalDate="7/5/08 5:33 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90906_hDSC06113.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90907_921_DSC06236</title>
+            <link>slides/90907_921_DSC06236.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:01:31 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90907_921_DSC06236.jpg" width="180" height="240"/>
+            <media:content url="slides/90907_921_DSC06236.jpg" width="600" height="800"/>
+            <jalbum:original url="90907_921_DSC06236.jpg" width="2304" height="3072" fileSize="242390"/>
+            <jalbum:exif originalDate="7/6/08 3:13 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90907_921_DSC06236.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

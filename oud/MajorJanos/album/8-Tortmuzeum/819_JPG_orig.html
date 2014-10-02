@@ -1,0 +1,60 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en">
+<!-- saved from url=(0014)about:internet -->
+<head>
+<meta http-equiv="Content-Type" content="text/html;charset=UTF-8" />
+<title>819</title>
+<meta name="robots" content="index,follow,noimageindex" />
+<link rel="stylesheet" type="text/css" href="../res/styles.css" />
+
+<style type="text/css">
+body { margin-top: 12px; margin-left: 12px; background-image:none; }
+#orig { border:0; }
+.large { cursor:url(../res/zoomout.cur), pointer; }
+.small { cursor:url(../res/zoomin.cur), pointer; }
+</style>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ratio = 1;
+var shrinked = false;
+var ow = 2112;
+var oh = 2816;
+function getRatio() {
+	if (ww = window.innerWidth) 
+		wh = window.innerHeight;
+	else if(document.documentElement) {
+		ww = document.documentElement.clientWidth;
+		wh = document.documentElement.clientHeight;
+	} 
+	else return;
+	rw = (ww - 24) / ow; 
+	rh = (wh - 24) / oh;
+	if (rw > rh) rw = rh;
+	if (rw < 1) ratio = rw;
+}
+function initImage() {
+	var ratio = getRatio();
+	togglezoom();
+}
+function togglezoom() {
+	if (ratio != 1 && (el = document.getElementById("orig")) != null) {
+		if (shrinked) {
+			el.width = ow;
+			el.height = oh;
+			el.className = 'large';
+		}
+		else {
+			el.width = ow * ratio;
+			el.height = oh * ratio;
+			el.className = 'small';
+		}
+		shrinked = !shrinked;
+	}
+}
+/* ]]> */
+</script>
+</head>
+<body onload="initImage();">
+<div><img id="orig" class="large" src="819.JPG" width="2112" height="2816" onClick="javascript:togglezoom();" alt="819.JPG" title="Click to change zoom!" /></div>
+</body>
+</html>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>933_A bolcs</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93301_aJ1040380</title>
+            <link>slides/93301_aJ1040380.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:13:38 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93301_aJ1040380.jpg" width="180" height="240"/>
+            <media:content url="slides/93301_aJ1040380.jpg" width="600" height="800"/>
+            <jalbum:original url="93301_aJ1040380.jpg" width="2160" height="2880" fileSize="248815"/>
+            <jalbum:exif originalDate="6/28/08 7:15 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/93301_aJ1040380.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>936_Salome es Herodes</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93601_aJ1040407</title>
+            <link>slides/93601_aJ1040407.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:14:00 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93601_aJ1040407.jpg" width="135" height="240"/>
+            <media:content url="slides/93601_aJ1040407.jpg" width="450" height="800"/>
+            <jalbum:original url="93601_aJ1040407.jpg" width="2160" height="3840" fileSize="288717"/>
+            <jalbum:exif originalDate="6/28/08 8:00 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/93601_aJ1040407.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

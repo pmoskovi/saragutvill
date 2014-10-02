@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>905_Tavasz</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>90501_924_DSC06231</title>
+            <link>slides/90501_924_DSC06231.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:58:24 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90501_924_DSC06231.jpg" width="180" height="240"/>
+            <media:content url="slides/90501_924_DSC06231.jpg" width="600" height="800"/>
+            <jalbum:original url="90501_924_DSC06231.jpg" width="2304" height="3072" fileSize="239118"/>
+            <jalbum:exif originalDate="7/6/08 3:10 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90501_924_DSC06231.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90502_aDSC05922</title>
+            <link>slides/90502_aDSC05922.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:58:24 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90502_aDSC05922.jpg" width="180" height="240"/>
+            <media:content url="slides/90502_aDSC05922.jpg" width="600" height="800"/>
+            <jalbum:original url="90502_aDSC05922.jpg" width="2304" height="3072" fileSize="360507"/>
+            <jalbum:exif originalDate="6/28/08 1:25 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90502_aDSC05922.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90503_cDSC05963</title>
+            <link>slides/90503_cDSC05963.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:58:24 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90503_cDSC05963.jpg" width="180" height="240"/>
+            <media:content url="slides/90503_cDSC05963.jpg" width="600" height="800"/>
+            <jalbum:original url="90503_cDSC05963.jpg" width="2304" height="3072" fileSize="192252"/>
+            <jalbum:exif originalDate="7/1/08 9:33 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90503_cDSC05963.jpg</guid>
+        </item>
+        
+        <item>
+            <title>kakukktojas_cDSC05957</title>
+            <link>slides/kakukktojas_cDSC05957.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:58:24 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/kakukktojas_cDSC05957.jpg" width="180" height="240"/>
+            <media:content url="slides/kakukktojas_cDSC05957.jpg" width="600" height="800"/>
+            <jalbum:original url="kakukktojas_cDSC05957.jpg" width="2304" height="3072" fileSize="252302"/>
+            <jalbum:exif originalDate="7/1/08 9:31 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/kakukktojas_cDSC05957.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

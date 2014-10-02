@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>925_Phyllis es Aristoteles</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>92501_aJ1040388</title>
+            <link>slides/92501_aJ1040388.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:11:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/92501_aJ1040388.jpg" width="240" height="159"/>
+            <media:content url="slides/92501_aJ1040388.jpg" width="800" height="532"/>
+            <jalbum:original url="92501_aJ1040388.jpg" width="3248" height="2160" fileSize="263551"/>
+            <jalbum:exif originalDate="6/28/08 7:21 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/92501_aJ1040388.jpg</guid>
+        </item>
+        
+        <item>
+            <title>92502_aFen1040405</title>
+            <link>slides/92502_aFen1040405.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:11:52 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/92502_aFen1040405.jpg" width="240" height="135"/>
+            <media:content url="slides/92502_aFen1040405.jpg" width="800" height="450"/>
+            <jalbum:original url="92502_aFen1040405.jpg" width="3840" height="2160" fileSize="273599"/>
+            <jalbum:exif originalDate="6/28/08 7:59 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/92502_aFen1040405.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

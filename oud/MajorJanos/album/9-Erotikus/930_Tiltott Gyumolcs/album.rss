@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>930_Tiltott Gyumolcs</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93001_aDSC05913</title>
+            <link>slides/93001_aDSC05913.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:13:17 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93001_aDSC05913.jpg" width="180" height="240"/>
+            <media:content url="slides/93001_aDSC05913.jpg" width="600" height="800"/>
+            <jalbum:original url="93001_aDSC05913.jpg" width="2304" height="3072" fileSize="324395"/>
+            <jalbum:exif originalDate="6/28/08 1:21 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/93001_aDSC05913.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

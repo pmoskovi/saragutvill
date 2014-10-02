@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>931_Homo Erectus</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93101_bP1040641</title>
+            <link>slides/93101_bP1040641.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:13:25 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93101_bP1040641.jpg" width="159" height="240"/>
+            <media:content url="slides/93101_bP1040641.jpg" width="531" height="800"/>
+            <jalbum:original url="93101_bP1040641.jpg" width="1360" height="2048" fileSize="145250"/>
+            <jalbum:exif originalDate="6/30/08 8:06 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/93101_bP1040641.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

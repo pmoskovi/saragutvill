@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>904_Tollrajz</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>90401_913_DSC06220</title>
+            <link>slides/90401_913_DSC06220.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:54 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90401_913_DSC06220.jpg" width="180" height="240"/>
+            <media:content url="slides/90401_913_DSC06220.jpg" width="600" height="800"/>
+            <jalbum:original url="90401_913_DSC06220.jpg" width="2304" height="3072" fileSize="233139"/>
+            <jalbum:exif originalDate="7/6/08 3:04 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90401_913_DSC06220.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90402_919_DSC06228</title>
+            <link>slides/90402_919_DSC06228.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:54 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90402_919_DSC06228.jpg" width="180" height="240"/>
+            <media:content url="slides/90402_919_DSC06228.jpg" width="600" height="800"/>
+            <jalbum:original url="90402_919_DSC06228.jpg" width="2304" height="3072" fileSize="200236"/>
+            <jalbum:exif originalDate="7/6/08 3:09 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90402_919_DSC06228.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90403_cDSC05931</title>
+            <link>slides/90403_cDSC05931.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:54 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90403_cDSC05931.jpg" width="180" height="240"/>
+            <media:content url="slides/90403_cDSC05931.jpg" width="600" height="800"/>
+            <jalbum:original url="90403_cDSC05931.jpg" width="2304" height="3072" fileSize="170940"/>
+            <jalbum:exif originalDate="7/1/08 9:19 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90403_cDSC05931.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90404_cDSC05932</title>
+            <link>slides/90404_cDSC05932.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:54 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90404_cDSC05932.jpg" width="180" height="240"/>
+            <media:content url="slides/90404_cDSC05932.jpg" width="600" height="800"/>
+            <jalbum:original url="90404_cDSC05932.jpg" width="2304" height="3072" fileSize="197746"/>
+            <jalbum:exif originalDate="7/1/08 9:20 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90404_cDSC05932.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90405_bP1040638</title>
+            <link>slides/90405_bP1040638.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:54 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90405_bP1040638.jpg" width="159" height="240"/>
+            <media:content url="slides/90405_bP1040638.jpg" width="531" height="800"/>
+            <jalbum:original url="90405_bP1040638.jpg" width="1360" height="2048" fileSize="191880"/>
+            <jalbum:exif originalDate="6/30/08 8:05 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/90405_bP1040638.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

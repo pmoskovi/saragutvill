@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>937_Lovas no</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93701_aJ1040408</title>
+            <link>slides/93701_aJ1040408.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:14:08 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93701_aJ1040408.jpg" width="159" height="240"/>
+            <media:content url="slides/93701_aJ1040408.jpg" width="532" height="800"/>
+            <jalbum:original url="93701_aJ1040408.jpg" width="2160" height="3248" fileSize="248311"/>
+            <jalbum:exif originalDate="6/28/08 8:01 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/93701_aJ1040408.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

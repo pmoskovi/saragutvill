@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>938_Az utolso orom</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>93801_aDSC05917</title>
+            <link>slides/93801_aDSC05917.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:14:16 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/93801_aDSC05917.jpg" width="180" height="240"/>
+            <media:content url="slides/93801_aDSC05917.jpg" width="600" height="800"/>
+            <jalbum:original url="93801_aDSC05917.jpg" width="2304" height="3072" fileSize="404985"/>
+            <jalbum:exif originalDate="6/28/08 1:23 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/93801_aDSC05917.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

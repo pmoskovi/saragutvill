@@ -1,0 +1,735 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>2-Grafikak</title>
+   	<link>..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+    	<jalbum:link rel="sub" href="225+/album.rss" />   	
+    	<jalbum:link rel="sub" href="225+/album.rss" />   	
+    	
+    	<jalbum:link rel="sub" href="233+/album.rss" />   	
+    	<jalbum:link rel="sub" href="233+/album.rss" />   	
+    	
+        
+        <item>
+            <title>201_DSC05842</title>
+            <link>slides/201_DSC05842.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/201_DSC05842.jpg" width="179" height="240"/>
+            <media:content url="slides/201_DSC05842.jpg" width="549" height="733"/>
+            <jalbum:original url="201_DSC05842.jpg" width="549" height="733" fileSize="77727"/>
+            <jalbum:exif originalDate="6/24/08 2:44 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/201_DSC05842.jpg</guid>
+        </item>
+        
+        <item>
+            <title>202-1_DSC05846</title>
+            <link>slides/202-1_DSC05846.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/202-1_DSC05846.jpg" width="179" height="240"/>
+            <media:content url="slides/202-1_DSC05846.jpg" width="549" height="733"/>
+            <jalbum:original url="202-1_DSC05846.jpg" width="549" height="733" fileSize="73540"/>
+            <jalbum:exif originalDate="6/24/08 2:52 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/202-1_DSC05846.jpg</guid>
+        </item>
+        
+        <item>
+            <title>202-2_DSC05843</title>
+            <link>slides/202-2_DSC05843.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/202-2_DSC05843.jpg" width="179" height="240"/>
+            <media:content url="slides/202-2_DSC05843.jpg" width="549" height="733"/>
+            <jalbum:original url="202-2_DSC05843.jpg" width="549" height="733" fileSize="77959"/>
+            <jalbum:exif originalDate="6/24/08 2:47 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/202-2_DSC05843.jpg</guid>
+        </item>
+        
+        <item>
+            <title>203_DSC05850</title>
+            <link>slides/203_DSC05850.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/203_DSC05850.jpg" width="179" height="240"/>
+            <media:content url="slides/203_DSC05850.jpg" width="549" height="733"/>
+            <jalbum:original url="203_DSC05850.jpg" width="549" height="733" fileSize="74282"/>
+            <jalbum:exif originalDate="6/24/08 2:57 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/203_DSC05850.jpg</guid>
+        </item>
+        
+        <item>
+            <title>204_DSC05844</title>
+            <link>slides/204_DSC05844.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/204_DSC05844.jpg" width="240" height="179"/>
+            <media:content url="slides/204_DSC05844.jpg" width="733" height="549"/>
+            <jalbum:original url="204_DSC05844.jpg" width="733" height="549" fileSize="75202"/>
+            <jalbum:exif originalDate="6/24/08 2:50 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/204_DSC05844.jpg</guid>
+        </item>
+        
+        <item>
+            <title>205_DSC05845</title>
+            <link>slides/205_DSC05845.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/205_DSC05845.jpg" width="240" height="179"/>
+            <media:content url="slides/205_DSC05845.jpg" width="733" height="549"/>
+            <jalbum:original url="205_DSC05845.jpg" width="733" height="549" fileSize="72288"/>
+            <jalbum:exif originalDate="6/24/08 2:50 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/205_DSC05845.jpg</guid>
+        </item>
+        
+        <item>
+            <title>206_DSC05847</title>
+            <link>slides/206_DSC05847.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/206_DSC05847.jpg" width="179" height="240"/>
+            <media:content url="slides/206_DSC05847.jpg" width="549" height="733"/>
+            <jalbum:original url="206_DSC05847.jpg" width="549" height="733" fileSize="73664"/>
+            <jalbum:exif originalDate="6/24/08 2:53 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/206_DSC05847.jpg</guid>
+        </item>
+        
+        <item>
+            <title>207_DSC05849</title>
+            <link>slides/207_DSC05849.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/207_DSC05849.jpg" width="179" height="240"/>
+            <media:content url="slides/207_DSC05849.jpg" width="549" height="733"/>
+            <jalbum:original url="207_DSC05849.jpg" width="549" height="733" fileSize="71265"/>
+            <jalbum:exif originalDate="6/24/08 2:57 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/207_DSC05849.jpg</guid>
+        </item>
+        
+        <item>
+            <title>208_DSC05848</title>
+            <link>slides/208_DSC05848.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/208_DSC05848.jpg" width="179" height="240"/>
+            <media:content url="slides/208_DSC05848.jpg" width="549" height="733"/>
+            <jalbum:original url="208_DSC05848.jpg" width="549" height="733" fileSize="58333"/>
+            <jalbum:exif originalDate="6/24/08 2:55 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/208_DSC05848.jpg</guid>
+        </item>
+        
+        <item>
+            <title>209_tajkep4fa</title>
+            <link>slides/209_tajkep4fa.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/209_tajkep4fa.jpg" width="240" height="180"/>
+            <media:content url="slides/209_tajkep4fa.jpg" width="733" height="550"/>
+            <jalbum:original url="209_tajkep4fa.jpg" width="733" height="550" fileSize="77716"/>
+            <jalbum:exif originalDate="7/1/08 5:12 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/209_tajkep4fa.jpg</guid>
+        </item>
+        
+        <item>
+            <title>210_DSC05825</title>
+            <link>slides/210_DSC05825.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/210_DSC05825.jpg" width="179" height="240"/>
+            <media:content url="slides/210_DSC05825.jpg" width="549" height="733"/>
+            <jalbum:original url="210_DSC05825.jpg" width="549" height="733" fileSize="75367"/>
+            <jalbum:exif originalDate="6/24/08 2:16 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/210_DSC05825.jpg</guid>
+        </item>
+        
+        <item>
+            <title>211-1_DSC05820</title>
+            <link>slides/211-1_DSC05820.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/211-1_DSC05820.jpg" width="179" height="240"/>
+            <media:content url="slides/211-1_DSC05820.jpg" width="549" height="733"/>
+            <jalbum:original url="211-1_DSC05820.jpg" width="549" height="733" fileSize="76378"/>
+            <jalbum:exif originalDate="6/24/08 2:01 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/211-1_DSC05820.jpg</guid>
+        </item>
+        
+        <item>
+            <title>211-2_DSC05821</title>
+            <link>slides/211-2_DSC05821.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/211-2_DSC05821.jpg" width="179" height="240"/>
+            <media:content url="slides/211-2_DSC05821.jpg" width="549" height="733"/>
+            <jalbum:original url="211-2_DSC05821.jpg" width="549" height="733" fileSize="81879"/>
+            <jalbum:exif originalDate="6/24/08 2:02 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/211-2_DSC05821.jpg</guid>
+        </item>
+        
+        <item>
+            <title>211-3_DSC05822</title>
+            <link>slides/211-3_DSC05822.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/211-3_DSC05822.jpg" width="179" height="240"/>
+            <media:content url="slides/211-3_DSC05822.jpg" width="549" height="733"/>
+            <jalbum:original url="211-3_DSC05822.jpg" width="549" height="733" fileSize="82552"/>
+            <jalbum:exif originalDate="6/24/08 2:03 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/211-3_DSC05822.jpg</guid>
+        </item>
+        
+        <item>
+            <title>212-1_DSC05827</title>
+            <link>slides/212-1_DSC05827.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/212-1_DSC05827.jpg" width="179" height="240"/>
+            <media:content url="slides/212-1_DSC05827.jpg" width="549" height="733"/>
+            <jalbum:original url="212-1_DSC05827.jpg" width="549" height="733" fileSize="95298"/>
+            <jalbum:exif originalDate="6/24/08 2:19 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/212-1_DSC05827.jpg</guid>
+        </item>
+        
+        <item>
+            <title>212-2_DSC05826</title>
+            <link>slides/212-2_DSC05826.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/212-2_DSC05826.jpg" width="179" height="240"/>
+            <media:content url="slides/212-2_DSC05826.jpg" width="549" height="733"/>
+            <jalbum:original url="212-2_DSC05826.jpg" width="549" height="733" fileSize="77094"/>
+            <jalbum:exif originalDate="6/24/08 2:17 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/212-2_DSC05826.jpg</guid>
+        </item>
+        
+        <item>
+            <title>213-1_DSC05814</title>
+            <link>slides/213-1_DSC05814.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/213-1_DSC05814.jpg" width="240" height="179"/>
+            <media:content url="slides/213-1_DSC05814.jpg" width="733" height="549"/>
+            <jalbum:original url="213-1_DSC05814.jpg" width="733" height="549" fileSize="98120"/>
+            <jalbum:exif originalDate="6/24/08 1:50 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/213-1_DSC05814.jpg</guid>
+        </item>
+        
+        <item>
+            <title>213-2_DSC05813</title>
+            <link>slides/213-2_DSC05813.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/213-2_DSC05813.jpg" width="179" height="240"/>
+            <media:content url="slides/213-2_DSC05813.jpg" width="549" height="733"/>
+            <jalbum:original url="213-2_DSC05813.jpg" width="549" height="733" fileSize="141241"/>
+            <jalbum:exif originalDate="6/24/08 1:48 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/213-2_DSC05813.jpg</guid>
+        </item>
+        
+        <item>
+            <title>213-3_DSC05811</title>
+            <link>slides/213-3_DSC05811.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/213-3_DSC05811.jpg" width="240" height="179"/>
+            <media:content url="slides/213-3_DSC05811.jpg" width="733" height="549"/>
+            <jalbum:original url="213-3_DSC05811.jpg" width="733" height="549" fileSize="159515"/>
+            <jalbum:exif originalDate="6/24/08 1:45 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/213-3_DSC05811.jpg</guid>
+        </item>
+        
+        <item>
+            <title>213-4_DSC05812</title>
+            <link>slides/213-4_DSC05812.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/213-4_DSC05812.jpg" width="179" height="240"/>
+            <media:content url="slides/213-4_DSC05812.jpg" width="549" height="733"/>
+            <jalbum:original url="213-4_DSC05812.jpg" width="549" height="733" fileSize="89918"/>
+            <jalbum:exif originalDate="6/24/08 1:47 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/213-4_DSC05812.jpg</guid>
+        </item>
+        
+        <item>
+            <title>214_DSC05838</title>
+            <link>slides/214_DSC05838.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/214_DSC05838.jpg" width="179" height="240"/>
+            <media:content url="slides/214_DSC05838.jpg" width="549" height="733"/>
+            <jalbum:original url="214_DSC05838.jpg" width="549" height="733" fileSize="80855"/>
+            <jalbum:exif originalDate="6/24/08 2:36 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/214_DSC05838.jpg</guid>
+        </item>
+        
+        <item>
+            <title>215-1_DSC05829</title>
+            <link>slides/215-1_DSC05829.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/215-1_DSC05829.jpg" width="179" height="240"/>
+            <media:content url="slides/215-1_DSC05829.jpg" width="549" height="733"/>
+            <jalbum:original url="215-1_DSC05829.jpg" width="549" height="733" fileSize="86642"/>
+            <jalbum:exif originalDate="6/24/08 2:21 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/215-1_DSC05829.jpg</guid>
+        </item>
+        
+        <item>
+            <title>215-2_DSC05828</title>
+            <link>slides/215-2_DSC05828.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/215-2_DSC05828.jpg" width="179" height="240"/>
+            <media:content url="slides/215-2_DSC05828.jpg" width="549" height="733"/>
+            <jalbum:original url="215-2_DSC05828.jpg" width="549" height="733" fileSize="90052"/>
+            <jalbum:exif originalDate="6/24/08 2:19 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/215-2_DSC05828.jpg</guid>
+        </item>
+        
+        <item>
+            <title>216-1_DSC05832</title>
+            <link>slides/216-1_DSC05832.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/216-1_DSC05832.jpg" width="179" height="240"/>
+            <media:content url="slides/216-1_DSC05832.jpg" width="549" height="733"/>
+            <jalbum:original url="216-1_DSC05832.jpg" width="549" height="733" fileSize="63626"/>
+            <jalbum:exif originalDate="6/24/08 2:26 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/216-1_DSC05832.jpg</guid>
+        </item>
+        
+        <item>
+            <title>216-2_DSC05833</title>
+            <link>slides/216-2_DSC05833.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/216-2_DSC05833.jpg" width="179" height="240"/>
+            <media:content url="slides/216-2_DSC05833.jpg" width="549" height="733"/>
+            <jalbum:original url="216-2_DSC05833.jpg" width="549" height="733" fileSize="66575"/>
+            <jalbum:exif originalDate="6/24/08 2:27 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/216-2_DSC05833.jpg</guid>
+        </item>
+        
+        <item>
+            <title>217_DSC05836</title>
+            <link>slides/217_DSC05836.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/217_DSC05836.jpg" width="179" height="240"/>
+            <media:content url="slides/217_DSC05836.jpg" width="549" height="733"/>
+            <jalbum:original url="217_DSC05836.jpg" width="549" height="733" fileSize="77326"/>
+            <jalbum:exif originalDate="6/24/08 2:32 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/217_DSC05836.jpg</guid>
+        </item>
+        
+        <item>
+            <title>218_DSC05840</title>
+            <link>slides/218_DSC05840.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/218_DSC05840.jpg" width="179" height="240"/>
+            <media:content url="slides/218_DSC05840.jpg" width="549" height="733"/>
+            <jalbum:original url="218_DSC05840.jpg" width="549" height="733" fileSize="67182"/>
+            <jalbum:exif originalDate="6/24/08 2:40 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/218_DSC05840.jpg</guid>
+        </item>
+        
+        <item>
+            <title>219-1_DSC05834</title>
+            <link>slides/219-1_DSC05834.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/219-1_DSC05834.jpg" width="240" height="179"/>
+            <media:content url="slides/219-1_DSC05834.jpg" width="733" height="549"/>
+            <jalbum:original url="219-1_DSC05834.jpg" width="733" height="549" fileSize="79992"/>
+            <jalbum:exif originalDate="6/24/08 2:28 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/219-1_DSC05834.jpg</guid>
+        </item>
+        
+        <item>
+            <title>219-2_DSC05835</title>
+            <link>slides/219-2_DSC05835.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/219-2_DSC05835.jpg" width="240" height="179"/>
+            <media:content url="slides/219-2_DSC05835.jpg" width="733" height="549"/>
+            <jalbum:original url="219-2_DSC05835.jpg" width="733" height="549" fileSize="72840"/>
+            <jalbum:exif originalDate="6/24/08 2:30 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/219-2_DSC05835.jpg</guid>
+        </item>
+        
+        <item>
+            <title>220_DSC05839</title>
+            <link>slides/220_DSC05839.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/220_DSC05839.jpg" width="179" height="240"/>
+            <media:content url="slides/220_DSC05839.jpg" width="549" height="733"/>
+            <jalbum:original url="220_DSC05839.jpg" width="549" height="733" fileSize="84607"/>
+            <jalbum:exif originalDate="6/24/08 2:39 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/220_DSC05839.jpg</guid>
+        </item>
+        
+        <item>
+            <title>221_DSC05837</title>
+            <link>slides/221_DSC05837.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/221_DSC05837.jpg" width="179" height="240"/>
+            <media:content url="slides/221_DSC05837.jpg" width="549" height="733"/>
+            <jalbum:original url="221_DSC05837.jpg" width="549" height="733" fileSize="77387"/>
+            <jalbum:exif originalDate="6/24/08 2:35 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/221_DSC05837.jpg</guid>
+        </item>
+        
+        <item>
+            <title>222-1_DSC05809</title>
+            <link>slides/222-1_DSC05809.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/222-1_DSC05809.jpg" width="179" height="240"/>
+            <media:content url="slides/222-1_DSC05809.jpg" width="549" height="733"/>
+            <jalbum:original url="222-1_DSC05809.jpg" width="549" height="733" fileSize="82577"/>
+            <jalbum:exif originalDate="6/24/08 1:41 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/222-1_DSC05809.jpg</guid>
+        </item>
+        
+        <item>
+            <title>222-2_DSC05807</title>
+            <link>slides/222-2_DSC05807.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/222-2_DSC05807.jpg" width="179" height="240"/>
+            <media:content url="slides/222-2_DSC05807.jpg" width="549" height="733"/>
+            <jalbum:original url="222-2_DSC05807.jpg" width="549" height="733" fileSize="72712"/>
+            <jalbum:exif originalDate="6/24/08 1:37 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/222-2_DSC05807.jpg</guid>
+        </item>
+        
+        <item>
+            <title>222-3_DSC05808</title>
+            <link>slides/222-3_DSC05808.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/222-3_DSC05808.jpg" width="179" height="240"/>
+            <media:content url="slides/222-3_DSC05808.jpg" width="549" height="733"/>
+            <jalbum:original url="222-3_DSC05808.jpg" width="549" height="733" fileSize="97017"/>
+            <jalbum:exif originalDate="6/24/08 1:39 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/222-3_DSC05808.jpg</guid>
+        </item>
+        
+        <item>
+            <title>223-1_DSC05841</title>
+            <link>slides/223-1_DSC05841.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/223-1_DSC05841.jpg" width="179" height="240"/>
+            <media:content url="slides/223-1_DSC05841.jpg" width="549" height="733"/>
+            <jalbum:original url="223-1_DSC05841.jpg" width="549" height="733" fileSize="68503"/>
+            <jalbum:exif originalDate="6/24/08 2:42 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/223-1_DSC05841.jpg</guid>
+        </item>
+        
+        <item>
+            <title>224-1_DSC05830</title>
+            <link>slides/224-1_DSC05830.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/224-1_DSC05830.jpg" width="179" height="240"/>
+            <media:content url="slides/224-1_DSC05830.jpg" width="549" height="733"/>
+            <jalbum:original url="224-1_DSC05830.jpg" width="549" height="733" fileSize="89082"/>
+            <jalbum:exif originalDate="6/24/08 2:22 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/224-1_DSC05830.jpg</guid>
+        </item>
+        
+        <item>
+            <title>224-2_DSC05831</title>
+            <link>slides/224-2_DSC05831.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/224-2_DSC05831.jpg" width="179" height="240"/>
+            <media:content url="slides/224-2_DSC05831.jpg" width="549" height="733"/>
+            <jalbum:original url="224-2_DSC05831.jpg" width="549" height="733" fileSize="92052"/>
+            <jalbum:exif originalDate="6/24/08 2:25 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/224-2_DSC05831.jpg</guid>
+        </item>
+        
+        <item>
+            <title>225-1_DSC05799</title>
+            <link>slides/225-1_DSC05799.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/225-1_DSC05799.jpg" width="179" height="240"/>
+            <media:content url="slides/225-1_DSC05799.jpg" width="549" height="733"/>
+            <jalbum:original url="225-1_DSC05799.jpg" width="549" height="733" fileSize="84088"/>
+            <jalbum:exif originalDate="6/24/08 1:23 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/225-1_DSC05799.jpg</guid>
+        </item>
+        
+        <item>
+            <title>226-1_DSC05804</title>
+            <link>slides/226-1_DSC05804.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/226-1_DSC05804.jpg" width="179" height="240"/>
+            <media:content url="slides/226-1_DSC05804.jpg" width="549" height="733"/>
+            <jalbum:original url="226-1_DSC05804.jpg" width="549" height="733" fileSize="134922"/>
+            <jalbum:exif originalDate="6/24/08 1:34 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/226-1_DSC05804.jpg</guid>
+        </item>
+        
+        <item>
+            <title>226-2_DSC05803</title>
+            <link>slides/226-2_DSC05803.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/226-2_DSC05803.jpg" width="179" height="240"/>
+            <media:content url="slides/226-2_DSC05803.jpg" width="549" height="733"/>
+            <jalbum:original url="226-2_DSC05803.jpg" width="549" height="733" fileSize="124566"/>
+            <jalbum:exif originalDate="6/24/08 1:32 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/226-2_DSC05803.jpg</guid>
+        </item>
+        
+        <item>
+            <title>226-3_scharfkeret</title>
+            <link>slides/226-3_scharfkeret.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/226-3_scharfkeret.jpg" width="180" height="240"/>
+            <media:content url="slides/226-3_scharfkeret.jpg" width="550" height="733"/>
+            <jalbum:original url="226-3_scharfkeret.jpg" width="550" height="733" fileSize="85538"/>
+            <jalbum:exif originalDate="7/1/08 6:28 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/226-3_scharfkeret.jpg</guid>
+        </item>
+        
+        <item>
+            <title>227_DSC05823</title>
+            <link>slides/227_DSC05823.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/227_DSC05823.jpg" width="179" height="240"/>
+            <media:content url="slides/227_DSC05823.jpg" width="549" height="733"/>
+            <jalbum:original url="227_DSC05823.jpg" width="549" height="733" fileSize="106934"/>
+            <jalbum:exif originalDate="6/24/08 2:04 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/227_DSC05823.jpg</guid>
+        </item>
+        
+        <item>
+            <title>228_DSC05805</title>
+            <link>slides/228_DSC05805.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/228_DSC05805.jpg" width="179" height="240"/>
+            <media:content url="slides/228_DSC05805.jpg" width="549" height="733"/>
+            <jalbum:original url="228_DSC05805.jpg" width="549" height="733" fileSize="104948"/>
+            <jalbum:exif originalDate="6/24/08 1:36 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/228_DSC05805.jpg</guid>
+        </item>
+        
+        <item>
+            <title>229_felbehagy68</title>
+            <link>slides/229_felbehagy68.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/229_felbehagy68.jpg" width="180" height="240"/>
+            <media:content url="slides/229_felbehagy68.jpg" width="600" height="800"/>
+            <jalbum:original url="229_felbehagy68.jpg" width="2304" height="3072" fileSize="400497"/>
+            <jalbum:exif originalDate="7/6/08 3:40 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/229_felbehagy68.jpg</guid>
+        </item>
+        
+        <item>
+            <title>230-1_DSC05818</title>
+            <link>slides/230-1_DSC05818.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/230-1_DSC05818.jpg" width="179" height="240"/>
+            <media:content url="slides/230-1_DSC05818.jpg" width="549" height="733"/>
+            <jalbum:original url="230-1_DSC05818.jpg" width="549" height="733" fileSize="101564"/>
+            <jalbum:exif originalDate="6/24/08 1:57 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/230-1_DSC05818.jpg</guid>
+        </item>
+        
+        <item>
+            <title>230-2_DSC05819</title>
+            <link>slides/230-2_DSC05819.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/230-2_DSC05819.jpg" width="179" height="240"/>
+            <media:content url="slides/230-2_DSC05819.jpg" width="549" height="733"/>
+            <jalbum:original url="230-2_DSC05819.jpg" width="549" height="733" fileSize="95155"/>
+            <jalbum:exif originalDate="6/24/08 1:59 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/230-2_DSC05819.jpg</guid>
+        </item>
+        
+        <item>
+            <title>231_DSC05817</title>
+            <link>slides/231_DSC05817.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/231_DSC05817.jpg" width="179" height="240"/>
+            <media:content url="slides/231_DSC05817.jpg" width="549" height="733"/>
+            <jalbum:original url="231_DSC05817.jpg" width="549" height="733" fileSize="62343"/>
+            <jalbum:exif originalDate="6/24/08 1:55 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/231_DSC05817.jpg</guid>
+        </item>
+        
+        <item>
+            <title>232-1_iDSC06365</title>
+            <link>slides/232-1_iDSC06365.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/232-1_iDSC06365.jpg" width="180" height="240"/>
+            <media:content url="slides/232-1_iDSC06365.jpg" width="600" height="800"/>
+            <jalbum:original url="232-1_iDSC06365.jpg" width="2304" height="3072" fileSize="225174"/>
+            <jalbum:exif originalDate="7/6/08 4:35 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/232-1_iDSC06365.jpg</guid>
+        </item>
+        
+        <item>
+            <title>232-2_eDSC06078</title>
+            <link>slides/232-2_eDSC06078.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/232-2_eDSC06078.jpg" width="180" height="240"/>
+            <media:content url="slides/232-2_eDSC06078.jpg" width="600" height="800"/>
+            <jalbum:original url="232-2_eDSC06078.jpg" width="2304" height="3072" fileSize="174432"/>
+            <jalbum:exif originalDate="7/3/08 9:44 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/232-2_eDSC06078.jpg</guid>
+        </item>
+        
+        <item>
+            <title>233-1_DSC05797</title>
+            <link>slides/233-1_DSC05797.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/233-1_DSC05797.jpg" width="179" height="240"/>
+            <media:content url="slides/233-1_DSC05797.jpg" width="549" height="733"/>
+            <jalbum:original url="233-1_DSC05797.jpg" width="549" height="733" fileSize="94609"/>
+            <jalbum:exif originalDate="6/24/08 1:19 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/233-1_DSC05797.jpg</guid>
+        </item>
+        
+        <item>
+            <title>234_perspesszinkr</title>
+            <link>slides/234_perspesszinkr.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/234_perspesszinkr.jpg" width="180" height="240"/>
+            <media:content url="slides/234_perspesszinkr.jpg" width="550" height="733"/>
+            <jalbum:original url="234_perspesszinkr.jpg" width="550" height="733" fileSize="60366"/>
+            <jalbum:exif originalDate="7/1/08 6:20 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/234_perspesszinkr.jpg</guid>
+        </item>
+        
+        <item>
+            <title>235_felreertesx</title>
+            <link>slides/235_felreertesx.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/235_felreertesx.jpg" width="180" height="240"/>
+            <media:content url="slides/235_felreertesx.jpg" width="550" height="733"/>
+            <jalbum:original url="235_felreertesx.jpg" width="550" height="733" fileSize="78026"/>
+            <jalbum:exif originalDate="7/1/08 6:21 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/235_felreertesx.jpg</guid>
+        </item>
+        
+        <item>
+            <title>237_sargahaz</title>
+            <link>slides/237_sargahaz.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/237_sargahaz.jpg" width="180" height="240"/>
+            <media:content url="slides/237_sargahaz.jpg" width="550" height="733"/>
+            <jalbum:original url="237_sargahaz.jpg" width="550" height="733" fileSize="75244"/>
+            <jalbum:exif originalDate="7/1/08 6:22 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/237_sargahaz.jpg</guid>
+        </item>
+        
+        <item>
+            <title>238</title>
+            <link>slides/238.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/238.JPG" width="180" height="240"/>
+            <media:content url="slides/238.JPG" width="600" height="800"/>
+            <jalbum:original url="238.JPG" width="2112" height="2816" fileSize="326455"/>
+            <jalbum:exif originalDate="9/9/08 7:57 PM" cameraMake="SONY" cameraModel="DSC-W50"/>
+            <guid isPermaLink="false">slides/238.JPG</guid>
+        </item>
+        
+        <item>
+            <title>239_eDSC06067</title>
+            <link>slides/239_eDSC06067.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:13:33 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/239_eDSC06067.jpg" width="180" height="240"/>
+            <media:content url="slides/239_eDSC06067.jpg" width="600" height="800"/>
+            <jalbum:original url="239_eDSC06067.jpg" width="2304" height="3072" fileSize="317038"/>
+            <jalbum:exif originalDate="7/3/08 9:39 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/239_eDSC06067.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

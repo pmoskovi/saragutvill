@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>921_Cirkumcisa</title>
+   	<link>../../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>92101_aDSC05924</title>
+            <link>slides/92101_aDSC05924.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:10:16 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/92101_aDSC05924.jpg" width="180" height="240"/>
+            <media:content url="slides/92101_aDSC05924.jpg" width="600" height="800"/>
+            <jalbum:original url="92101_aDSC05924.jpg" width="2304" height="3072" fileSize="287139"/>
+            <jalbum:exif originalDate="6/28/08 1:25 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/92101_aDSC05924.jpg</guid>
+        </item>
+        
+        <item>
+            <title>92102_dDSC06004</title>
+            <link>slides/92102_dDSC06004.html</link>
+            <pubDate>Wed, 25 Feb 2009 00:10:16 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/92102_dDSC06004.jpg" width="180" height="240"/>
+            <media:content url="slides/92102_dDSC06004.jpg" width="600" height="800"/>
+            <jalbum:original url="92102_dDSC06004.jpg" width="2304" height="3072" fileSize="232576"/>
+            <jalbum:exif originalDate="7/2/08 6:37 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/92102_dDSC06004.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

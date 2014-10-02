@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>233+</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>DSC05795</title>
+            <link>slides/DSC05795.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:14:40 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC05795.jpg" width="179" height="240"/>
+            <media:content url="slides/DSC05795.jpg" width="549" height="733"/>
+            <jalbum:original url="DSC05795.jpg" width="549" height="733" fileSize="83210"/>
+            <jalbum:exif originalDate="6/24/08 1:17 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/DSC05795.jpg</guid>
+        </item>
+        
+        <item>
+            <title>DSC05796</title>
+            <link>slides/DSC05796.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:14:40 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC05796.jpg" width="179" height="240"/>
+            <media:content url="slides/DSC05796.jpg" width="549" height="733"/>
+            <jalbum:original url="DSC05796.jpg" width="549" height="733" fileSize="93768"/>
+            <jalbum:exif originalDate="6/24/08 1:18 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/DSC05796.jpg</guid>
+        </item>
+        
+        <item>
+            <title>DSC05798</title>
+            <link>slides/DSC05798.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:14:40 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC05798.jpg" width="179" height="240"/>
+            <media:content url="slides/DSC05798.jpg" width="549" height="733"/>
+            <jalbum:original url="DSC05798.jpg" width="549" height="733" fileSize="108749"/>
+            <jalbum:exif originalDate="6/24/08 1:22 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/DSC05798.jpg</guid>
+        </item>
+        
+        <item>
+            <title>DSC05810</title>
+            <link>slides/DSC05810.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:14:40 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/DSC05810.jpg" width="179" height="240"/>
+            <media:content url="slides/DSC05810.jpg" width="549" height="733"/>
+            <jalbum:original url="DSC05810.jpg" width="549" height="733" fileSize="118218"/>
+            <jalbum:exif originalDate="6/24/08 1:43 PM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/DSC05810.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

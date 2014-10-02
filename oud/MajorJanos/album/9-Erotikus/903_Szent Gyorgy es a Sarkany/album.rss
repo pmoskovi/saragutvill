@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0"
+     xmlns:media="http://search.yahoo.com/mrss/"
+     xmlns:jalbum="http://jalbum.net/jalbumrss">
+
+    <channel>
+        <title>903_Szent Gyorgy es a Sarkany</title>
+   	<link>../..</link>
+        <generator>Jalbum 8.1</generator>
+   		<description></description>
+        
+        
+        <item>
+            <title>90301_912_DSC06218</title>
+            <link>slides/90301_912_DSC06218.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:27 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90301_912_DSC06218.jpg" width="180" height="240"/>
+            <media:content url="slides/90301_912_DSC06218.jpg" width="600" height="800"/>
+            <jalbum:original url="90301_912_DSC06218.jpg" width="2304" height="3072" fileSize="542264"/>
+            <jalbum:exif originalDate="7/6/08 3:02 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90301_912_DSC06218.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90302_hDSC06121</title>
+            <link>slides/90302_hDSC06121.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:27 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90302_hDSC06121.jpg" width="180" height="240"/>
+            <media:content url="slides/90302_hDSC06121.jpg" width="600" height="800"/>
+            <jalbum:original url="90302_hDSC06121.jpg" width="2304" height="3072" fileSize="272637"/>
+            <jalbum:exif originalDate="7/5/08 5:38 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90302_hDSC06121.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90303_fDSC06095</title>
+            <link>slides/90303_fDSC06095.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:27 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90303_fDSC06095.jpg" width="180" height="240"/>
+            <media:content url="slides/90303_fDSC06095.jpg" width="600" height="800"/>
+            <jalbum:original url="90303_fDSC06095.jpg" width="2304" height="3072" fileSize="332964"/>
+            <jalbum:exif originalDate="7/5/08 4:59 AM" cameraMake="SONY" cameraModel="DSC-V3"/>
+            <guid isPermaLink="false">slides/90303_fDSC06095.jpg</guid>
+        </item>
+        
+        <item>
+            <title>90304_aJ1040389</title>
+            <link>slides/90304_aJ1040389.html</link>
+            <pubDate>Tue, 24 Feb 2009 23:57:27 -0800</pubDate>
+            <description></description>
+            <media:description type="html"></media:description>
+            <media:thumbnail url="thumbs/90304_aJ1040389.jpg" width="159" height="240"/>
+            <media:content url="slides/90304_aJ1040389.jpg" width="532" height="800"/>
+            <jalbum:original url="90304_aJ1040389.jpg" width="2160" height="3248" fileSize="308504"/>
+            <jalbum:exif originalDate="6/28/08 7:22 PM" cameraMake="Panasonic" cameraModel="DMC-LX1"/>
+            <guid isPermaLink="false">slides/90304_aJ1040389.jpg</guid>
+        </item>
+        
+    </channel>
+</rss>

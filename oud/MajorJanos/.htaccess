@@ -1,0 +1,5 @@
+authtype basic
+authgroupfile /dev/null
+authuserfile /home/content/s/a/r/saragutvill/htconfig/.htpassword.ghtpassword
+authname "katalogus"
+require user katalogus
