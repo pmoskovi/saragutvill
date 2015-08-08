@@ -32,6 +32,9 @@
 .style_3 {
     padding: 4px;
 }
+.style_External_447_3777 {
+    position: relative;
+}
 .paragraph_style_1 {
     color: rgb(255, 253, 254);
     font-family: 'HelveticaNeue-Bold', 'Helvetica Neue', 'Arial', sans-serif;
@@ -206,14 +209,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_9 {
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 13px;
-    font-stretch: normal;
-    font-style: normal;
-    font-weight: 400;
-    line-height: 15px;
-}
 .style_SkipStroke_2 {
     background: transparent;
     opacity: 1.00;
@@ -229,6 +224,14 @@
 .style_SkipStroke_1 {
     background: rgb(255, 255, 255);
     opacity: 1.00;
+}
+.style_9 {
+    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
+    font-size: 13px;
+    font-stretch: normal;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 15px;
 }
 .paragraph_style_7 {
     color: rgb(255, 253, 254);
@@ -328,9 +331,6 @@
     text-indent: 0px;
     text-transform: none;
 }
-.style_External_447_3435 {
-    position: relative;
-}
 .style_External_68_24 {
     position: relative;
 }
@@ -387,7 +387,7 @@
 .graphic_textbox_layout_style_default_External_79_204 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_447_3435 {
+.graphic_textbox_layout_style_default_External_447_3777 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -413,15 +413,16 @@ a.class1:hover {
     color: rgb(120, 12, 0);
 }
 a.class10 {
-    color: rgb(216, 30, 0);
-    text-decoration: none;
+    color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 a.class10:visited {
-    color: rgb(216, 30, 0);
-    text-decoration: none;
+    color: rgb(121, 121, 121);
+    text-decoration: underline;
 }
 a.class10:hover {
-    color: rgb(216, 30, 0);
+    color: rgb(146, 146, 146);
+    text-decoration: underline;
 }
 a.class11 {
     color: rgb(216, 30, 0);
@@ -500,9 +501,19 @@ a.class17:visited {
 a.class17:hover {
     color: rgb(216, 30, 0);
 }
+a.class18 {
+    color: rgb(216, 30, 0);
+    text-decoration: none;
+}
+a.class18:visited {
+    color: rgb(216, 30, 0);
+    text-decoration: none;
+}
+a.class18:hover {
+    color: rgb(216, 30, 0);
+}
 a.class2 {
     color: rgb(255, 255, 255);
-    text-decoration: underline;
 }
 a.class2:visited {
     color: rgb(121, 121, 121);
@@ -510,9 +521,11 @@ a.class2:visited {
 }
 a.class2:hover {
     color: rgb(146, 146, 146);
+    text-decoration: underline;
 }
 a.class3 {
     color: rgb(255, 255, 255);
+    text-decoration: underline;
 }
 a.class3:visited {
     color: rgb(121, 121, 121);
@@ -523,7 +536,6 @@ a.class3:hover {
 }
 a.class4 {
     color: rgb(255, 255, 255);
-    text-decoration: underline;
 }
 a.class4:visited {
     color: rgb(121, 121, 121);
@@ -542,7 +554,6 @@ a.class5:visited {
 }
 a.class5:hover {
     color: rgb(146, 146, 146);
-    text-decoration: underline;
 }
 a.class6 {
     color: rgb(255, 255, 255);
