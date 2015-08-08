@@ -21,7 +21,7 @@ function onPageLoad()
 IWRegisterNamedImage('movie overlay','Media/Photo-Overlay-Movie.png')
 loadMozillaCSS('Sara_Gutvill_-_Mezzosopraan_-_Pictures_files/Sara_Gutvill_-_Mezzosopraan_-_PicturesMoz.css')
 adjustLineHeightIfTooBig('id1');adjustFontSizeIfTooBig('id1');adjustLineHeightIfTooBig('id2');adjustFontSizeIfTooBig('id2');NotificationCenter.addObserver(null,relayoutMediaGrid_id3,'RangeChanged','id3')
-adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');fixAllIEPNGs('Media/transparent.gif');Widget.onload();applyEffects()
+adjustLineHeightIfTooBig('id4');adjustFontSizeIfTooBig('id4');adjustLineHeightIfTooBig('id5');adjustFontSizeIfTooBig('id5');fixAllIEPNGs('Media/transparent.gif');Widget.onload();fixupAllIEPNGBGs();applyEffects()
 initializeMediaStream_id3()}
 function onPageUnload()
 {Widget.onunload();}

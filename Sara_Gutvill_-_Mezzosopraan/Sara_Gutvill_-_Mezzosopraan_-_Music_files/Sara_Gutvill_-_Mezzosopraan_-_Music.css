@@ -34,6 +34,22 @@
     font-weight: 400;
     line-height: 43px;
 }
+.style_SkipStroke_2 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke_3 {
+    background: transparent;
+    opacity: 1.00;
+}
+.style_SkipStroke {
+    background: rgb(172, 22, 0);
+    opacity: 1.00;
+}
+.style_SkipStroke_1 {
+    background: rgb(255, 255, 255);
+    opacity: 1.00;
+}
 .paragraph_style_1 {
     color: rgb(255, 253, 254);
     font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
@@ -55,6 +71,10 @@
     text-decoration: none;
     text-indent: 0px;
     text-transform: none;
+}
+.style_SkipStroke_4 {
+    background: transparent;
+    opacity: 1.00;
 }
 .paragraph_style_2 {
     color: rgb(255, 253, 254);
@@ -100,54 +120,8 @@
     text-indent: 0px;
     text-transform: none;
 }
-.paragraph_style_4 {
-    color: rgb(245, 36, 0);
-    font-family: 'HelveticaNeue', 'Helvetica Neue', 'Arial', sans-serif;
-    font-size: 10px;
-    font-stretch: normal;
-    font-style: normal;
-    font-variant: normal;
-    font-weight: 400;
-    letter-spacing: 0;
-    line-height: 20px;
-    margin-bottom: 0px;
-    margin-left: 0px;
-    margin-right: 0px;
-    margin-top: 0px;
-    opacity: 1.00;
-    padding-bottom: 10px;
-    padding-top: 0px;
-    text-align: left;
-    text-decoration: underline;
-    text-indent: 0px;
-    text-transform: none;
-}
-.style_3 {
-    line-height: 20px;
-    text-decoration: none;
-}
-.style_External_447_54 {
+.style_External_158_49 {
     position: relative;
-}
-.style_SkipStroke_2 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke_3 {
-    background: transparent;
-    opacity: 1.00;
-}
-.style_SkipStroke {
-    background: rgb(172, 22, 0);
-    opacity: 1.00;
-}
-.style_SkipStroke_1 {
-    background: rgb(255, 255, 255);
-    opacity: 1.00;
-}
-.style_SkipStroke_4 {
-    background: transparent;
-    opacity: 1.00;
 }
 .style_External_1008_541 {
     position: relative;
@@ -155,10 +129,10 @@
 .style_External_145_49 {
     position: relative;
 }
-.style_External_145_94 {
+.style_External_447_54 {
     position: relative;
 }
-.style_External_158_49 {
+.style_External_145_94 {
     position: relative;
 }
 .Free_Form {
@@ -205,22 +179,19 @@
 .graphic_textbox_layout_style_default {
     padding: 4px;
 }
-.graphic_textbox_layout_style_default_External_79_204 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_145_49 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_145_94 {
-    position: relative;
-}
-.graphic_textbox_layout_style_default_External_45_24 {
+.graphic_textbox_layout_style_default_External_158_49 {
     position: relative;
 }
 .graphic_textbox_layout_style_default_External_447_54 {
     position: relative;
 }
-.graphic_textbox_layout_style_default_External_158_49 {
+.graphic_textbox_layout_style_default_External_145_94 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_79_204 {
+    position: relative;
+}
+.graphic_textbox_layout_style_default_External_145_49 {
     position: relative;
 }
 .graphic_textbox_style_default_SkipStroke {
@@ -322,16 +293,6 @@ a.class8:visited {
 }
 a.class8:hover {
     color: rgb(216, 30, 0);
-}
-a.class9 {
-    color: rgb(216, 30, 0);
-}
-a.class9:visited {
-    color: rgb(216, 30, 0);
-    text-decoration: none;
-}
-a.class9:hover {
-    color: rgb(120, 12, 0);
 }
 a:hover {
     color: rgb(216, 30, 0);
