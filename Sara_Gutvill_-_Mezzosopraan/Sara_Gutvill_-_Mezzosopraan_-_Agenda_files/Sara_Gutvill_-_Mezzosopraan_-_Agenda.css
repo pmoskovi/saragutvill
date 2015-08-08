@@ -224,6 +224,9 @@
     text-indent: 0px;
     text-transform: none;
 }
+.style_External_1009_3900 {
+    position: relative;
+}
 .style_10 {
     color: rgb(255, 255, 255);
     line-height: 15px;
@@ -374,9 +377,6 @@
 .style_External_447_3862 {
     position: relative;
 }
-.style_External_1009_1198 {
-    position: relative;
-}
 .Free_Form {
     color: rgb(88, 77, 77);
     font-family: 'ArialMT', 'Arial', sans-serif;
@@ -408,10 +408,10 @@
 .graphic_shape_layout_style_default {
     padding: 4px;
 }
-.graphic_shape_layout_style_default_External_1009_1198 {
+.graphic_shape_layout_style_default_External_194_541 {
     position: relative;
 }
-.graphic_shape_layout_style_default_External_194_541 {
+.graphic_shape_layout_style_default_External_1009_3900 {
     position: relative;
 }
 .graphic_shape_style_default_SkipStroke {
