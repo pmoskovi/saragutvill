@@ -26,144 +26,8 @@
         <script src="js/vendor/bootstrap.js"></script>
 
 
-	<!-- TODO mettere il testo in 2/3 per non coprire la foto -->
         <link rel="stylesheet" href="css/main.css">
 
-	<style>
-	  @font-face {
-          font-family: Unger ;
-          src: url('fonts/UngerFrakturZierbuchstaben.ttf') format('truetype');
-          }
-            
-          @media only screen and (orientation: landscape) {
-	  body {
-	  padding-top: 50px;
-	  padding-bottom: 20px ;
-	  
-                    font-family: 'Lato',sans-serif;
-                    background: url('img/SaraGutvill_front_page.jpg') ;    
-                    background-attachment: fixed;
-
-		    background-repeat: no-repeat;
-		    background-size: 100% ;
-                    max-width: 100%;
-                    min-width: 100%;
-		}
-	  }
-	  iframe {
-	   height:115 ;
-	  }
-
-            @media only screen and (orientation: portrait) {
-		body {
-                    padding-top: 50px;
-                    padding-bottom: 20px ;
-		    
-                    font-family: 'Lato',sans-serif;
-                    background: url('img/SaraGutvill_front_page_320x480.jpg') ;    
-                    background-attachment: fixed;
-		    
-		    background-repeat: no-repeat;
-		    background-size: 100% ;
-                    max-width: 100%;
-                    min-width: 100%;
-	  }
-	  iframe {
-	  height:auto;
-	   width:80%;
-	  }
-	  
-	    }
-            #singer {
-                padding-top: 50px;
-            }
-            #voice {
-                padding-top: 50px;
-            }
-            #teacher {
-                padding-top: 50px;
-            }
-            #media {
-                padding-top: 50px;
-            }
-            transparent {
-                background-color: rgba(122, 130, 136, 0.4)!important;
-            }
-            .jumbotron  {
-                border: 0px;
-                background-color: rgba(212, 197, 150, 0.6)!important;
-
-            } 
-            ul.list-group-item {
-                background: none;
-                border: 0 !important; 
-                border-radius: 0;
-
-            }
-            ul.list-group  {
-                background-image: none;
-                border: none;
-                border-bottom: 0;
-                border-width: 0;
-                background: none;
-                box-shadow: 0 0px 0px;
-            } 
-            .list-group  .list-group-item  {
-                background: none;
-                border: 0 !important;  
-                border-radius: 0;
-            }
-            .icon_checked:before {
-                content: "\e089";
-                font-family: 'Glyphicons Halflings';
-                font-size: 9px;
-                float: left;
-                margin-top: 4px;
-                margin-left: -17px;
-                color: #000000;
-                background: none;
-                border: 0 !important;  
-                border-radius: 0;
-            }
-
-            h1, h2 {
-                text-shadow: 2px 2px 2px #fff;
-            } 
-
-            a.active {
-                background-color:  yellow;
-            }
-
-            .panel-transparent {
-                background: none;
-            }
-
-
-            .panel-transparent .panel-heading  {
-                background-color: rgba(212, 197, 150, 0.7)!important;
-                background-image:  none;
-                padding-left: 10%;
-                background: none;
-                border: 0px;
-            }
-            .panel-transparent .panel-body  {
-                background-color: rgba(212, 197, 150, 0.7)!important;
-                background-image: none;
-                background: none;
-                color: #000000;
-                text-shadow: 1px 1px 1px #fff;
-
-                padding-top: 0px;
-                padding-left: 10%;
-                padding-right: 0px;
-                padding-bottom: 0px;
-            }
-            .vcenter {
-                display: inline-block;
-                vertical-align: bottom;
-                float: none;
-            }
-	</style>
   
 
         <script>
@@ -248,8 +112,6 @@
 			      </div>
 				<div id="biography" class="modal fade" role="dialog">
 				  <div class="modal-dialog">
-				    <!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
-				    <!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
 				    <div class="modal-content">
 				      <div class="modal-header">
 					Biography
@@ -337,8 +199,7 @@ While teaching a language is great, for one helps the students to express themse
 
 				    <div id="doubledeal" class="modal fade" role="dialog">
 				      <div class="modal-dialog">
-					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
-					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+
 					<div class="modal-content">
 					  <div class="modal-header">
 					    Double deal: <strong>"Schumann's Love"</strong>
@@ -375,8 +236,7 @@ While teaching a language is great, for one helps the students to express themse
 				    
 				    <div id="fromjewish" class="modal fade" role="dialog">
 				      <div class="modal-dialog">
-					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
-					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+
 					<div class="modal-content">
 					  <div class="modal-header">
 					    Shostakovich: <strong>"From Jewish Folk Poetry"</strong><em>Из еврейской наводной поэзии</em>
@@ -441,8 +301,7 @@ After the concert you will be able to make up your mind yourself, as you will he
 				    
 				    <div id="amol" class="modal fade" role="dialog">
 				      <div class="modal-dialog">
-					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
-					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+
 					<div class="modal-content">
 					  <div class="modal-header">
 					    <strong> Amol iz geven a mayse </strong><em> אַ מאָל איז געווען אַ מעשה</em>
@@ -468,8 +327,7 @@ After the concert you will be able to make up your mind yourself, as you will he
 			      </a>
 			      <div id="grachconcert" class="modal fade" role="dialog">
 				<div class="modal-dialog">
-				  <!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
-				  <!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+
 				  <div class="modal-content">
 				    <div class="modal-header">
 				      Grachtconcert Oud-Zuid
@@ -480,7 +338,7 @@ After the concert you will be able to make up your mind yourself, as you will he
 				    </div>
 				    <div class="modal-footer">
 				      <div align="center">
-					<iframe height="115" src="https://www.youtube.com/embed/_3knHIY2nw8" frameborder="0" allowfullscreen></iframe>
+					<iframe height="115" src="https://www.youtube.com/embed/j3mkxw7z1bk" frameborder="0" allowfullscreen></iframe>
 				      </div>
 				    </div>
 				  </div>
@@ -678,7 +536,6 @@ After the concert you will be able to make up your mind yourself, as you will he
           <button type="button" class="close" data-dismiss="modal" >&times;</button>
           <h4 class="modal-title">Ottorino Respighi: Il Tramonto, 1914</h4>
         </div>
-	<!-- TODO sostituire </i> con " -->
 	
         <div class="modal-body">
           <p>Ottorino Respighi wrote this piece for mezzo-soprano and string quartet in 1918
@@ -734,9 +591,6 @@ Needless to say that singing it in the exceptional Kleine Zaal of the Amsterdam
 Concertgebouw with the great Párkányi Qartet was a sublime experience. 
           </p>
         </div>
-        <!--div class="modal-footer">
-          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
-        </div-->
       </div>
     </div>
   </div>
