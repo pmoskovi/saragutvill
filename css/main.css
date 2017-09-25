@@ -3,6 +3,157 @@
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
+.smallcaps {
+    text-transform: uppercase;
+    font-weight:bold;
+}
+
+.centervideo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block
+}
+
+a {
+    color: #000000;    
+    text-decoration: underline;
+}
+
+/*@media screen and (orientation:portrait) {
+}*/
+	  @font-face {
+          font-family: Unger ;
+          src: url('fonts/UngerFrakturZierbuchstaben.ttf') format('truetype');
+          }
+            
+          @media only screen and (orientation: landscape) {
+	  body {
+	  padding-top: 50px;
+	  padding-bottom: 20px ;
+	  
+                    font-family: 'Lato',sans-serif;
+                    background: url('img/SaraGutvill_front_page.jpg') ;    
+                    background-attachment: fixed;
+
+		    background-repeat: no-repeat;
+		    background-size: 100% ;
+                    max-width: 100%;
+                    min-width: 100%;
+		}
+	  }
+	  iframe {
+	   height:115 ;
+	  }
+
+            @media only screen and (orientation: portrait) {
+		body {
+                    padding-top: 50px;
+                    padding-bottom: 20px ;
+		    
+                    font-family: 'Lato',sans-serif;
+                    background: url('img/SaraGutvill_front_page_320x480.jpg') ;    
+                    background-attachment: fixed;
+		    
+		    background-repeat: no-repeat;
+		    background-size: 100% ;
+                    max-width: 100%;
+                    min-width: 100%;
+	  }
+	  iframe {
+	  height:auto;
+	   width:80%;
+	  }
+	  
+	    }
+            #singer {
+                padding-top: 50px;
+            }
+            #voice {
+                padding-top: 50px;
+            }
+            #teacher {
+                padding-top: 50px;
+            }
+            #media {
+                padding-top: 50px;
+            }
+            transparent {
+                background-color: rgba(122, 130, 136, 0.4)!important;
+            }
+            .jumbotron  {
+                border: 0px;
+                background-color: rgba(212, 197, 150, 0.6)!important;
+
+            } 
+            ul.list-group-item {
+                background: none;
+                border: 0 !important; 
+                border-radius: 0;
+
+            }
+            ul.list-group  {
+                background-image: none;
+                border: none;
+                border-bottom: 0;
+                border-width: 0;
+                background: none;
+                box-shadow: 0 0px 0px;
+            } 
+            .list-group  .list-group-item  {
+                background: none;
+                border: 0 !important;  
+                border-radius: 0;
+            }
+            .icon_checked:before {
+                content: "\e089";
+                font-family: 'Glyphicons Halflings';
+                font-size: 9px;
+                float: left;
+                margin-top: 4px;
+                margin-left: -17px;
+                color: #000000;
+                background: none;
+                border: 0 !important;  
+                border-radius: 0;
+            }
+
+            h1, h2 {
+                text-shadow: 2px 2px 2px #fff;
+            } 
+
+            a.active {
+                background-color:  yellow;
+            }
+
+            .panel-transparent {
+                background: none;
+            }
+
+
+            .panel-transparent .panel-heading  {
+                background-color: rgba(212, 197, 150, 0.7)!important;
+                background-image:  none;
+                padding-left: 10%;
+                background: none;
+                border: 0px;
+            }
+            .panel-transparent .panel-body  {
+                background-color: rgba(212, 197, 150, 0.7)!important;
+                background-image: none;
+                background: none;
+                color: #000000;
+                text-shadow: 1px 1px 1px #fff;
+
+                padding-top: 0px;
+                padding-left: 10%;
+                padding-right: 0px;
+                padding-bottom: 0px;
+            }
+            .vcenter {
+                display: inline-block;
+                vertical-align: bottom;
+                float: none;
+            }
 
 
 
