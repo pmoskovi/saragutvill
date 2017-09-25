@@ -17,7 +17,7 @@
 
         <link rel="stylesheet" href="css/bootstrap.css">
         <link rel="stylesheet" href="css/bootstrap-theme.min.css">
-        <link rel="stylesheet" href="css/main.css">
+
 
         <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css">
 
@@ -25,25 +25,55 @@
         <script src="js/vendor/jquery-1.11.2.js"></script>
         <script src="js/vendor/bootstrap.js"></script>
 
-        <style>
-            @font-face {
-                font-family: Unger ;
-                src: url('fonts/UngerFrakturZierbuchstaben.ttf') format('truetype');
-            }
-            
-            
-            body {
-                padding-top: 50px;
-                padding-bottom: 20px ;
 
-                font-family: 'Lato',sans-serif;
-                background: url('img/SaraGutvill_front_page.jpg') ;    
-                background-attachment: fixed;
+	<!-- TODO mettere il testo in 2/3 per non coprire la foto -->
+        <link rel="stylesheet" href="css/main.css">
 
-                background-size: 100% ;
-                max-width: 100%;
-                min-width: 100%;
-            }
+	<style>
+	  @font-face {
+          font-family: Unger ;
+          src: url('fonts/UngerFrakturZierbuchstaben.ttf') format('truetype');
+          }
+            
+          @media only screen and (orientation: landscape) {
+	  body {
+	  padding-top: 50px;
+	  padding-bottom: 20px ;
+	  
+                    font-family: 'Lato',sans-serif;
+                    background: url('img/SaraGutvill_front_page.jpg') ;    
+                    background-attachment: fixed;
+
+		    background-repeat: no-repeat;
+		    background-size: 100% ;
+                    max-width: 100%;
+                    min-width: 100%;
+		}
+	  }
+	  iframe {
+	   height:115 ;
+	  }
+
+            @media only screen and (orientation: portrait) {
+		body {
+                    padding-top: 50px;
+                    padding-bottom: 20px ;
+		    
+                    font-family: 'Lato',sans-serif;
+                    background: url('img/SaraGutvill_front_page_320x480.jpg') ;    
+                    background-attachment: fixed;
+		    
+		    background-repeat: no-repeat;
+		    background-size: 100% ;
+                    max-width: 100%;
+                    min-width: 100%;
+	  }
+	  iframe {
+	  height:auto;
+	   width:80%;
+	  }
+	  
+	    }
             #singer {
                 padding-top: 50px;
             }
@@ -96,12 +126,8 @@
                 border-radius: 0;
             }
 
-            h1 {
-                text-shadow: 1px 1px 1px #fff;
-            } 
-
-            h2 {
-                text-shadow: 1px 1px 1px #fff;
+            h1, h2 {
+                text-shadow: 2px 2px 2px #fff;
             } 
 
             a.active {
@@ -114,14 +140,14 @@
 
 
             .panel-transparent .panel-heading  {
-                background-color: rgba(212, 197, 150, 0.4)!important;
+                background-color: rgba(212, 197, 150, 0.7)!important;
                 background-image:  none;
                 padding-left: 10%;
                 background: none;
                 border: 0px;
             }
             .panel-transparent .panel-body  {
-                background-color: rgba(212, 197, 150, 0.2)!important;
+                background-color: rgba(212, 197, 150, 0.7)!important;
                 background-image: none;
                 background: none;
                 color: #000000;
@@ -137,19 +163,21 @@
                 vertical-align: bottom;
                 float: none;
             }
-        </style>
-        
+	</style>
+  
+
         <script>
-            function bind_collapsable_and_glyphicon(id_div,id_glyphicon){
-                $("#"+id_div).on("show.bs.collapse",function(){
-                    $('#'+id_glyphicon).removeClass('glyphicon-chevron-right').addClass('glyphicon-chevron-down');
-                }).on("hide.bs.collapse",function(){
-                    $('#'+id_glyphicon).removeClass('glyphicon-chevron-down').addClass('glyphicon-chevron-right');
-                });                
+            function bind_collapsable_and_glyphicon(id_div, id_glyphicon) {
+                $("#" + id_div).on("show.bs.collapse", function () {
+                    $('#' + id_glyphicon).removeClass('glyphicon-chevron-right').addClass('glyphicon-chevron-down');
+                }).on("hide.bs.collapse", function () {
+                    $('#' + id_glyphicon).removeClass('glyphicon-chevron-down').addClass('glyphicon-chevron-right');
+                });
             }
-        $(document).ready(function () {
-            bind_collapsable_and_glyphicon("biography","togle1");
-        });
+            $(document).ready(function () {
+//                bind_collapsable_and_glyphicon("biography", "togle1");
+//                bind_collapsable_and_glyphicon("doubledeal", "togle2");
+            });
 
         </script>
     </head>
@@ -158,7 +186,7 @@
         <!--[if lt IE 8]>
             <p class="browserupgrade">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
         <![endif]-->
-        <div >
+        <div class="">
             <nav class="navbar navbar-inverse navbar-fixed-top">
                 <div class="container-fluid">
                     <div class="navbar-header">
@@ -193,10 +221,10 @@
                 </div>
             </nav>    
             <div class="jumbotron">
-                <div class='row'>
-                    <div class='col-xs-8'>
-                        <div class='row'>
-                            <div class='col-xs-8 vcenter'>
+                <div class="row">
+                    <div class="col-xs-8">
+                        <div class="row">
+                            <div class="col-xs-8 vcenter">
                                 <h1 style="font-family: Lato,serif " class="text-right" >S&#225;ra Gutvill</h1>
                             </div><!-- 
                             --><div class='col-xs-4 vcenter'>
@@ -213,34 +241,252 @@
                     </div>
                     <div class='panel-body'>
                         <ul class="list-group">
-                            <li class="list-group-item" data-toggle="collapse" data-target="#biography"> 
-                                <!--<a data-toggle="collapse" data-target="#biography"> 
-                                    <span id="togle1" class="glyphicon glyphicon-chevron-right"></span>Bio
-                                </a>-->
-                                <span id="togle1" class="glyphicon glyphicon-chevron-right"></span>Bio
-                                <div id="biography" class="collapse">
-                                    <div class="row">
-                                        <div class="col-xs-8">
-                                            Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS. 
-                                        </div>    
-                                    </div>
-                                </div>
+                            <li class="list-group-item" data-toggle="collapse" data-target="#biography">
+                              <div class="smallcaps">
+				<!--span id="togle1" class="glyphicon glyphicon-chevron-right"></span-->
+				<a href="#" data-toggle="modal" data-target="#biography">Bio</a>
+			      </div>
+				<div id="biography" class="modal fade" role="dialog">
+				  <div class="modal-dialog">
+				    <!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
+				    <!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+				    <div class="modal-content">
+				      <div class="modal-header">
+					Biography
+				      </div>
+				      <div class="modal-body">
+					<p>
+					  If you want the short version:
+					</p>
+					<p>
+I was born in Budapest, Hungary. (No, I am not going to tell you when). I studied German literature at the <i>University of Vienna</i> (Why? Because it was close to Budapest and let’s say they spoke better German than in Hungary), before I moved to the Netherlands where I currently live.
+					</p>
+					<p>
+
+In Amsterdam I studied with Paula de Wit and Pierre Mak at the <i>Conservatory of Amsterdam</i> and finished my studies in 2007. Ever since I have been singing and teaching.
+					</p>
+					<p>
+
+Currently I teach German for singers at the <i>Conservatory of Amsterdam and Performing Arts</i>: Music as well as German at the <i>Amsterdam University College</i>. I also coach singers in master classes such as the yearly <i>Vocallis Festival in Vaals</i> and in opera productions of the <i>Dutch National Opera Academy</i>. I sing Lied and oratorio as well as Jewish repertoire and regularly join <i>Collegium Vocale Ghent</i> for projects.
+					</p>
+					<p>
+
+And if you want to know the interesting parts:
+					</p>
+					<p>
+
+It was at a rowing tour at the river Tisza in Hungary back in the 80s that we heard a concert of French chansons. This was my first experience of burning jealousy towards the singer on the stage. Many school choir years later, I started to take singing lessons when I was 18. However, my voice would not do what it should, I had sever vocal problems, dropped the project and went to study German Literature and Linguistics instead – something I loved just as much as music. If it was a choice of “second best”, I never regretted it.
+
+ 
+					</p>
+					<p>
+
+While studying literature in Vienna, I kept complaining about my vocal frustration until a friend of mine just had enough of it and started the shout at me in a Viennese night after a couple of glasses of lovely Austrian wine: I should go and see a speech therapist instead of bothering him any further with the matter.
+					</p>
+					<p>
+
+I was shocked, as for me speech therapy was something for stuttering children and not for promising young singers – but off I went. A couple of months later, I was singing – Yiddish songs with Isaac Loberan’s klezmer ensemble. Hail to Austrian wine and speech therapy.
+
+ 
+					</p>
+					<p>
+
+After moving to the Netherlands, I wanted to continue singing in Yiddish but wanted to do it properly. Therefore I went to see the grande dame of Yiddish song, Shura Lipovsky. Shura listened to me and then said: “Well, Yiddish is not your problem, but … you don’t know how to sing. And I cannot teach you that. Go and see a voice teacher.” And this is how I met Ilona Stokvis who prepared me for the entrance exam of the Conservatory. I first studied with Paula de Wit and later with Pierre Mak. During these years I had lessons with many distinguished teachers including Magda Nádor, Margreet Honig, Valérie Guillorit, Rudolf Jansen, Maarten Koningsberger, Udo Reinemann, Claron McFadden, Miranda van Kralingen. I was fortunate enough to do a Lied masterclass with one of my favourite singers Thomas Quasthoff together with my partner-in-music for long years, the lovely, musically versatile Harimada Kusuma. I am still taking lessons occasionally with Marjan Kuiper.
+					</p>
+					<p>
+
+As a singer, I appreciate most and have most experience with German Lied, oratorio and Jewish music, both folk and classical.
+					</p>
+					<p>
+
+In Lied, my love for German poetry and my passion for music finally met. My love for Jewish songs remained unchanged – for their wide range of emotions and images of everyday life as well as for the expression of experiences of hardship, persecution and expulsion. I sing in Hebrew as well as in the languages and musical idioms of the diaspora: Ladino and Yiddish.
+					</p>
+					<p>
+
+I joined <i>Collegium Vocale Ghent</i> in 2012 for the first time and have been a happy choir singer ever since.
+
+ 
+					</p>
+					<p>
+
+I have been teaching since I was 17 and never stopped. I started as a German teacher in a language school in Budapest. Later, while studying in Vienna, I taught the wives and children of the employees at the Hungarian Embassy. After moving to Amsterdam I gave courses in Business German and during my studies I slowly started to teach singing as well. Occasionally I even taught Dutch and Hungarian.
+					</p>
+					<p>
+
+While teaching a language is great, for one helps the students to express themselves and enriche their cultural package, teaching singing is as unparalleled, personal and often intimate experience. Leading students on their path to find their voice and vocal expression, to develop their musical tastes and broaden their repertoire is each time a new experience, an honour and great responsibility.
+					</p>
+					<p>
+
+					  I am fortunate enough to work with young people all year round. I teach German and Music at the <i>Amsterdam University College</i> and German for Singers at the <i>Conservatory of Amsterdam</i>.
+					  
+					</p>
+
+				      </div>    
+				    </div>
+                                  </div>
+				</div>
                             </li>
 
 
-                            <li class="list-group-item">Current programs
+			    <li class="list-group-item"><div class="smallcaps">Current programs</div>
                                 <ul class="list-group" >
-                                    <li class="list-group-item">Double deal: <strong>"Schumann's Love"</strong> </li>
-                                    <li class="list-group-item">Shostakovich: <strong>"From Jewish Folk Poetry"</strong><em>Из еврейской наводной поэзии</em>  </li>
-                                    <li class="list-group-item"><strong> Amol iz geven a mayse </strong><em> אַ מאָל איז געווען אַ מעשה</em></li>
+                                  <li class="list-group-item">
+				    <a href="#" data-toggle="modal" data-target="#doubledeal">
+				      Double deal: <strong>"Schumann's Love"</strong>
+				    </a>
+
+				    <div id="doubledeal" class="modal fade" role="dialog">
+				      <div class="modal-dialog">
+					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
+					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+					<div class="modal-content">
+					  <div class="modal-header">
+					    Double deal: <strong>"Schumann's Love"</strong>
+					  </div>
+					  <div class="modal-body">
+					    <div >
+					      <p>
+					      Pay one, get two: A concert and a lecture, two singers, two song cycles.
+					      </p>
+					      <p>
+						In this program you will hear two of Schumann’s rightly most famous song cycles: Frauenliebe und Leben for mezzo-soprano on texts by Adelbert von Chamisso and Dichterliebe on texts by Heinrich Heine for tenor voice. The two singers, Sára Gutvill and Edward Leach have not only an extensive knowledge of the repertoire; they are also passionate about sharing this knowledge with the public. Learning about the poets and their texts as well as the connection between words and music will make you understand and enjoy more what you hear. The outstanding pianist Jaap Kooi accompanies Sára and Edward. They will round off the program with love duets by Schumann.
+					      </p>
+					    </div>
+					    <div class="modal-footer">
+					      <div align="center">
+						<iframe height="115" src="https://www.youtube.com/embed/_3knHIY2nw8" frameborder="0" allowfullscreen></iframe>
+					      </div>
+					      <div align="center">
+						<iframe height="115" src="https://www.youtube.com/embed/t0dvY3Grsm8" frameborder="0" allowfullscreen></iframe>
+					      </div>
+					      <div align="center">
+						<iframe height="115" src="https://www.youtube.com/embed/pFrnlF0j3d0" frameborder="0" allowfullscreen></iframe>
+					      </div>
+					    </div>
+					  </div>
+					</div>
+				      </div>
+				  </li>
+
+                                  <li class="list-group-item">
+				    <a href="#" data-toggle="modal" data-target="#fromjewish">
+				      Shostakovich: <strong>"From Jewish Folk Poetry"</strong><em>Из еврейской наводной поэзии</em>
+				    </a>
+				    
+				    <div id="fromjewish" class="modal fade" role="dialog">
+				      <div class="modal-dialog">
+					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
+					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+					<div class="modal-content">
+					  <div class="modal-header">
+					    Shostakovich: <strong>"From Jewish Folk Poetry"</strong><em>Из еврейской наводной поэзии</em>
+					  </div>
+					  
+					  <div class="modal-body">
+					    <div >
+					      <div align="center">
+						<iframe height="115" src="https://www.youtube.com/embed/LEY6KIL4vK8" frameborder="0" allowfullscreen></iframe>
+					      </div>
+
+					      <p>
+						Shostakovich initially wrote his song cycle From Jewish Folk Poetry for three singers and piano in 1948: just a few months after the Central Committee of the Communist Party condemned “cosmopolitanism” in music and his music was pronounced “worthless” and “fallatious”, and just a few months before Solomon Mikhoels, head of the Jewish Anti-fascist Committee was murdered. The story and the timing of the cycle leave us with many questions:
+
+Was the composition of the Jewish cycle an act of protest and solidarity with the Jewish people in times of growing Anti-Semitism? Or was it, on the contrary, an attempt of the composer to write the music the Party expected from him: easily accessible to the listener, melodious, rich in stories and literary images? Was Shostakovich' interest in Jewish culture politically motivated or was he just looking for a musical heritage that would set his imagination in motion?
+
+And how shall we interpret the obvious break in the cycle after the 8th song? While the first 8 songs, written in August 1948 deal with hardship and human tragedies, the last three, dated in October of the same year, are optimistic and praising the happy life in the Soviet Union: a first glance at the titles reveals the chasm. Was this an attempt to make a publication of the cycle possible? 
+					      </p>
+					      <p>
+						After the 8 songs ware performed during an informal gathering honouring Shostakovich’ birthday in September 1948 and he finished the last 3 songs in October of the same year, the songs disappeared in the drawer to be publicly performed only in 1955 – two years after Stalin’s death. The orchestral version followed in 1964. While the orchestral version is naturally richer in musical texture, the piano version does more justice to the intimacy of the original folk songs. 
+					      </p>
+					      <p>
+What else is interesting is that although Shostakovich sat Russian translations, we know  he was asking for help in pronouncing Yiddish in Spring 1948 of the year. Was he first looking at other – Yiddish - texts with the intention of setting them? Or did he have the original Yiddish texts of the Russian poems he later set to music? Or is J. Braun right when he quotes Shostakovich son, who told his father actually set the Yiddish texts or at least intended the songs could be sung in Yiddish as well?
+					      </p>
+					      <p>
+						Most of these questions are impossible to answer 60 years later.
+					      </p>
+					      <p>
+We however were up to an experiment: Paying tribute to the research of Mr. Joachim Braun who found and published the Yiddish texts of all 11 songs, we wanted to try out the settings in Yiddish. We found this very rewarding: the Yiddish originals2 have a special flavour and many untranslatable expressions add a semantic richness to the songs that are otherwise lost in the Russian translation. 
+					      </p>
+					      <p>
+After the concert you will be able to make up your mind yourself, as you will hear some of the pieces twice: In Russian and in Yiddish. To shed a little more light on the literary and musical background of the cycle, we will complete the program with poems by Soviet Yiddish writers as well as the original folk settings of some of the texts.
+					      </p>
+					      <p>
+						Soprano: Elizaveta Agrafenina
+					      </p>
+					      <p>
+						Mezzo-soprano: Sára Gutvill
+					      </p>
+
+					      <p>						
+						Tenor: Edward Leach
+					      </p>
+					      <p>
+						Piano: Jaap Kooi
+					      </p>
+
+					    </div>
+					  </div>
+					  <div class="modal-footer">
+					  </div>
+					</div>
+				      </div>
+				    </div>
+				  </li>
+
+                                  <li class="list-group-item">
+
+				    <a href="#" data-toggle="modal" data-target="#amol">
+				      <strong> Amol iz geven a mayse </strong><em> אַ מאָל איז געווען אַ מעשה</em>
+				    </a>
+				    
+				    <div id="amol" class="modal fade" role="dialog">
+				      <div class="modal-dialog">
+					<!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
+					<!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+					<div class="modal-content">
+					  <div class="modal-header">
+					    <strong> Amol iz geven a mayse </strong><em> אַ מאָל איז געווען אַ מעשה</em>
+					  </div>
+					  
+					  <div class="modal-body">
+					    <div >
+					      <p>
+					      </p>
+					    </div>
+					  </div>
+					  <div class="modal-footer">
+					  </div>
+					</div>
+				      </div>
+				    </div>
+				  </li>
                                 </ul>
                             </li>
-                            <li class="list-group-item">Grachtconcert Oud-Zuid
-                                <ul class="list-group">
-                                    <li class="list-group-item">Singing and scheuling </li>      
-                                </ul>
-                            </li>
-                            <li class="list-group-item">Collegium Vocale Ghent </li>
+                            <li class="list-group-item">
+			      <a href="#" data-toggle="modal" data-target="#grachconcert">
+				<div class="smallcaps">Grachtconcert Oud-Zuid</div>
+			      </a>
+			      <div id="grachconcert" class="modal fade" role="dialog">
+				<div class="modal-dialog">
+				  <!-- TODO SPOSTARE IN POPUP come Ottorino respighi -->
+				  <!-- TODO mettergli il video embedded (in fondo al popup i 3 video di Schuman_* -->
+				  <div class="modal-content">
+				    <div class="modal-header">
+				      Grachtconcert Oud-Zuid
+				    </div>
+				    <div class="modal-body">
+				      <p>On 23 September 2017 we held, sung, played, ate, drank and enjoyed the first edition of the Grachtconcert Oud-Zuid. It was magical evening at the water in stunning weather. In October, we will start organizing the second edition in 2018! 
+				      </p>
+				    </div>
+				    <div class="modal-footer">
+				      <div align="center">
+					<iframe height="115" src="https://www.youtube.com/embed/_3knHIY2nw8" frameborder="0" allowfullscreen></iframe>
+				      </div>
+				    </div>
+				  </div>
+				</div>
+			      </div>
+			    </li>
                         </ul>
                     </div>
                 </div>
@@ -293,7 +539,6 @@
                     </div>
                 </div>              
             </div>
-
             <div id="media" class="">
                 <div class='panel panel-transparent'>
                     <div class='panel-heading'>
@@ -302,19 +547,70 @@
                     <div class='panel-body'>
                         (Materiale multimedia da raccogliere)<br>
                         <ul class="list-group ">
-                            <li class="list-group-item icon_checked">
-                                <div class="col-xs-12">
-                                    <div class="row">                                
-                                        Respighi: Il Tramonto</div>
-                                    <div class="row">(live with the Párkányi-Quartet in the Amsterdam Concertgebouw, 2008)</div>
-                                    <div class="row">&nbsp;</div>
-                                    <div class="row">   
+                            <li class="list-group-item ">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <h4><a href="#" role="button" data-toggle="modal" data-target="#myModal">Ottorino Respighi: Il Tramonto (fragment)
+                                        </a>
+                                        </h4>
+                                        <h5>(live with the Párkányi-Quartet in the Amsterdam Concertgebouw, 2008)</h5>
                                         <audio controls>
                                             <source src="Media/Tramonto_beginning_fade_out.mp3" type="audio/ogg">
+                                        </audio>
+                                    </div>                                
+                                </div>                                
+                            </li>
+                           
+                            <li class="list-group-item ">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <h4>J.S. Bach : Et Misericordia (Magnificat)</h4>
+                                        <h5>(live with Amer Consort, conductor: Dirkjan Horringa, tenor: Georgi Sztojanov, 23 Nov 2014) </h5>
+                                        <audio controls>
+                                            <source src="Media/EtMisericordia.wav" type="audio/ogg">
+                                            <source src="Media/EtMisericordia.mp3" type="audio/ogg">
+                                        </audio>
+                                    </div>
+                                </div>
+                            </li>     
+                            <li class="list-group-item ">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <h4>J.S. Bach : Esurientes implevit bonit (Magnificat)</h4>
+                                        <h5>(live with Amer Consort, conductor: Dirkjan Horringa, 23 Nov 2014) </h5>
+                                        <audio controls>
+                                            <source src="Media/EsurientesImpleivit.wav" type="audio/ogg">
+                                            <source src="Media/EsurientesImpleivit.mp3" type="audio/ogg">
                                         </audio>
                                     </div>
                                 </div>
                             </li>
+                            <li class="list-group-item ">
+                                <div class="row">
+
+                                    <div class="col-xs-12">
+                                        <h4>Frank Lubnow: La vie entière</h4>
+                                        <h5>(piano: Harimada Kusuma, 2013 )</h5>
+                                        <audio controls>
+                                            <source src="Media/la_vie_entiere.mp3" type="audio/ogg">
+                                        </audio>
+                                    </div>
+
+                                </div>
+                            </li>                               
+                            <li class="list-group-item ">
+                                <div class="row">
+                                    <div class="col-xs-12">
+                                        <h4>W.A. Mozart: Benedictus (Requiem) </h4>
+                                        <h5>live with Trajecti Voces & Arezzo Ensemble, conductor: Dirkjan Horringa<br>
+                                        alt: Nicola Wemyss, tenor: Immo  Schröder, bas: John Woudt, 24 January 2015</h5>
+                                        <audio controls>
+                                            <source src="Media/RequiemMozart.wav" type="audio/ogg">
+                                            <source src="Media/RequiemMozart.mp3" type="audio/ogg">
+                                        </audio>
+                                    </div>
+                                </div>
+                            </li>     
                         </ul>
                     </div>
                 </div>              
@@ -341,7 +637,7 @@
 
             <footer>
                 <div class="container container-fluid">
-                    <div class="col-xs-*">
+                    <div class="col-xs-12">
                         <div class="row">
                             <p>Credits </p>                            
                         </div>
@@ -352,22 +648,14 @@
                             <p>Photos by Claudia Hansen @ Goethe Institut Amsterdam</p>                            
                         </div>
                         <div class="row">
-                            <p>Audio recording </p>
-                        </div>
-                        <div class="row">
                             <p>Webmaster with <span class="glyphicon glyphicon-heart"></span>  Nicola Rossi</p>
                         </div>
                     </div>
                 </div>
 
             </footer>
-            <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.js"></script>
         </div>
         <script>window.jQuery || document.write('<script src="js/vendor/jquery-1.11.2.js"><\/script>')</script>
-
-        <script src="js/vendor/bootstrap.min.js"></script>
-
-        <script src="js/main.js"></script>
 
         <!-- Google Analytics: change UA-XXXXX-X to be your site's ID. -->
         <!-- 
@@ -380,5 +668,77 @@
                  ga('create','UA-XXXXX-X','auto');ga('send','pageview');
              </script>
         -->
+                 
+  <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog" >    
+      <!-- Modal content-->
+      <div class="modal-content">
+        <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal" >&times;</button>
+          <h4 class="modal-title">Ottorino Respighi: Il Tramonto, 1914</h4>
+        </div>
+	<!-- TODO sostituire </i> con " -->
+	
+        <div class="modal-body">
+          <p>Ottorino Respighi wrote this piece for mezzo-soprano and string quartet in 1918
+ . 
+on Shelley
+’
+s 
+<i>
+The Sunset
+</i>
+ in the Italian translation of Roberto Ascoli. The poem 
+starts with this line:
+<p>
+  <i>
+    &ldquo;
+There late was One within whose subtle being, <br>
+As light and wind within some delicate cloud  <br>
+That fades amid the blue noon’s burning sky,  <br>
+Genius and death contended. &rdquo; 
+</i>
+</p>
+This 
+<i>
+One
+</i>
+ is a young man who dies without having seen the sun. The night 
+before he dies, he walks in the moonlight with his love and promises h
+er to come 
+back with her the next morning to look at the sun. She finds him dead in the 
+morning 
+–
+ and lives on like 
+<i>
+      &ldquo;
+      the tomb of [her] dead self
+          &rdquo;
+</i>
+. 
+              
+          </p>
+          <p>
+              The poetry of the music is as intense as that of the text and both merge to a 
+whole in Respighi
+’
+s wonderful setting. It is an intense pleasure to sing this piece 
+as it is wonderfully written for the voice and the continuous interaction with the 
+quartet makes it a unique experience of chamber music. The scoring for solo 
+voice and string quartet is challenging but wonderful 
+–
+ rich in colours and still 
+very intimate. 
+Needless to say that singing it in the exceptional Kleine Zaal of the Amsterdam 
+Concertgebouw with the great Párkányi Qartet was a sublime experience. 
+          </p>
+        </div>
+        <!--div class="modal-footer">
+          <button type="button" class="btn btn-default" data-dismiss="modal">Close</button>
+        </div-->
+      </div>
+    </div>
+  </div>
     </body>
 </html>
